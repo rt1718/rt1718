@@ -1,5 +1,7 @@
 ### Hi there 👋
 learning php...
+
+on picture is Slagar the Cruel from Redwall
 <!--
 **rt1718/rt1718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
