@@ -1,5 +1,11 @@
 ![pain aktsuki](https://github.com/rt1718/rt1718/blob/main/channels4_banner.jpg?raw=true)
 
+PHP-backend: Laravel / native, проектирование БД, REST API. Интеграция API, автоматизация процессов, проектирование и оптимизация архитектуры backend-систем. Использую ООП, SOLID, паттерны проектирования, работаю с Eloquent, Query Builder, оптимизирую SQL-запросы.
+
+`PHP 8+` `Laravel` `ООП` `SOLID` `MySQL` `PostgreSQL` `Eloquent` `Query Builder`  
+`Git` `REST API` `Composer` 
+
+
 <!--### Hi there 👋
 learning php...
 
