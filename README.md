@@ -1,6 +1,6 @@
 ![pain aktsuki](https://github.com/rt1718/rt1718/blob/main/channels4_banner.jpg?raw=true)
 
-**PHP-backend:**  
+<!--**PHP-backend:**  
 - Laravel / native
 - Проектирование БД, REST API
 - Интеграция API, автоматизация процессов
